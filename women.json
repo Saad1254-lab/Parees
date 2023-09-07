@@ -1,0 +1,63 @@
+{
+    "cards": [
+      {
+        "name": "FLORAL AFFAIR",
+        "description": "J. fragrances ignite the elegance of femininity with an artistry",
+        "imageUrl": "/images/women1.webp",
+        "page": "/Word/floral.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "1947",
+        "description": "J. fragrance applauds the pride and celebrates the glory",
+        "imageUrl": "/images/women2.webp",
+        "page": "/Word/dildil.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "CLASSIQUE POUR",
+        "description": "Classique Pour Femme; a Floral-woody-musky aroma starts  fresh",
+        "imageUrl": "/images/women3.webp",
+        "page": "/Word/classic.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "MOSCOW Pour",
+        "description": "This vibrant scent has sparkling & crisp bursts of Bergamot",
+        "imageUrl": "/images/women4.webp",
+        "page": "Word/moscow.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "CAIRO Pour",
+        "description": "A feminine, lively and refreshing floral fragrance. The first whif",
+        "imageUrl": "/images/women5.webp",
+        "page": "Word/cairo.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "MONTE CARLO",
+        "description": "A delectable women's fragrance, this variant blends fruity, floral",
+        "imageUrl": "/images/women6.webp",
+        "page": "Word/monte.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Stardom Perfume",
+        "description": "Be a spotlight stealer with Stardom. Its notes provide ",
+        "imageUrl": "/images/women7.webp",
+        "page": "Word/stardom.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Liquid Gold",
+        "description": "Dark and alluring; combining exotic fruits and intoxicating ",
+        "imageUrl": "/images/women8.webp",
+        "page": "Word/liquid.docx",
+        "btn":"More details"
+      }
+   
+     
+    ]
+  }
+  

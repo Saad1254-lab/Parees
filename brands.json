@@ -1,0 +1,27 @@
+{
+    "cards": [
+      {
+        "name": "Card 1",
+        "description": "This is the first card.",
+        "imageUrl": "/images/brands1.png",
+        "page": "jamshed.html"
+      },
+      {
+        "name": "Card 2",
+        "description": "This is the second card.",
+        "imageUrl": "/images/brands2.png",
+        "page": "gulahmed.html"
+      },
+      {
+        "name": "Card 3",
+        "description": "This is the third card.",
+        "imageUrl": "/images/brands3.webp",
+        "page": "saeed.html"
+      }
+    
+   
+      
+     
+    ]
+  }
+  

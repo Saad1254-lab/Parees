@@ -1,0 +1,64 @@
+{
+    "cards": [
+      {
+        "name": "BLUE RANGER",
+        "description": "Due to the photographic lighting & different screen calibrations,",
+        "imageUrl": "/images/kids1.webp",
+        "page": "Word/kids1.docx",
+        "btn":"More details"
+
+      },
+      {
+        "name": "YELLOW RANGER",
+        "description": "Due to the photographic lighting & different screen calibrations",
+        "imageUrl": "/images/kids2.webp",
+        "page": "Word/kids2.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "PINK RANGER",
+        "description": "Due to the photographic lighting & different screen calibrations.",
+        "imageUrl": "/images/kids3.webp",
+        "page": "Word/kids3.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "RED RANGER",
+        "description": "Due to the photographic lighting & different screen calibrations.",
+        "imageUrl": "/images/kids4.webp",
+        "page": "Word/kids4.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Cute Kitty",
+        "description": "We have captured the whimsical essence of unicorns in a unique ",
+        "imageUrl": "/images/kids5.webp",
+        "page": "Word/kids5.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Baby Shark",
+        "description": "Baby Shark Pink is the perfect choice for kids as it embodies ",
+        "imageUrl": "/images/kids6.webp",
+        "page": "Word/kids6.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Junior Perfume",
+        "description": "Exhilarating scent for boys with upbeat floral green notes and",
+        "imageUrl": "/images/kids7.webp",
+        "page": "Word/kids7.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Shark Blue",
+        "description": "Baby Shark Blue is the perfect choice for kids as it embodies",
+        "imageUrl": "/images/kids8.webp",
+        "page": "Word/kids7.docx",
+        "btn":"More details"
+      }
+   
+     
+    ]
+  }
+  

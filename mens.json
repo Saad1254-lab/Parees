@@ -1,0 +1,63 @@
+{
+    "cards": [
+      {
+        "name": "GREAT SUMMIT",
+        "description": "J. Fragrances endure the strive for greatness with challenges",
+        "imageUrl": "/images/mens1.webp",
+        "page": "/Word/Greatsummit.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "10 THE ERA",
+        "description": "10 The Era Shahid Afridi fragrance  talks about freedom",
+        "imageUrl": "/images/mens2.webp",
+        "page": "/Word/era.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "JANAN GOLD",
+        "description": "J. brings to you a masterpiece by the name of Janan Gold",
+        "imageUrl": "/images/mens3.webp",
+        "page": "/Word/janan.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "WASIM AK 502",
+        "description": "WA 502 is a scent for the man for a strong intellect",
+        "imageUrl": "/images/mens4.webp",
+        "page": "/Word/wasim.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Centurion Perfume",
+        "description": "If you’re in search of the perfect scent, you won’t regret ",
+        "imageUrl": "/images/mens5.webp",
+        "page": "/Word/centurion.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Ambassador",
+        "description": "Rich and seductive experience. The top notes open with man",
+        "imageUrl": "/images/mens6.webp",
+        "page": "/Word/ambassador.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Onyx Perfume",
+        "description": "Set an impression with Onyx. This masculine scent starts off ",
+        "imageUrl": "/images/mens7.webp",
+        "page": "/Word/onyx.docx",
+        "btn":"More details"
+      },
+      {
+        "name": "Mentor Blanc",
+        "description": "Combining elegance and style, it was designed with the modern",
+        "imageUrl": "/images/mens8.webp",
+        "page": "/Word/mentor.docx",
+        "btn":"More details"
+      }
+   
+     
+    ]
+  }
+  
